@@ -1,0 +1,47 @@
+[
+ {
+  "airline": "AirAsia",
+  "capacity": 100,
+  "docstatus": 0,
+  "doctype": "Airplane",
+  "model": "Airbus A380",
+  "modified": "2024-12-16 16:29:36.959492",
+  "name": "AirAsia-001"
+ },
+ {
+  "airline": "Emirates",
+  "capacity": 354,
+  "docstatus": 0,
+  "doctype": "Airplane",
+  "model": "Boeing 777-300ER",
+  "modified": "2024-12-16 16:31:08.402723",
+  "name": "Emirates-002"
+ },
+ {
+  "airline": "Lufthansa",
+  "capacity": 362,
+  "docstatus": 0,
+  "doctype": "Airplane",
+  "model": "Boeing 747-8 Intercontinental",
+  "modified": "2024-12-16 16:32:57.698895",
+  "name": "Lufthansa-001"
+ },
+ {
+  "airline": "IndiGo",
+  "capacity": 328,
+  "docstatus": 0,
+  "doctype": "Airplane",
+  "model": "Airbus A350-1000",
+  "modified": "2024-12-16 16:33:32.994618",
+  "name": "IndiGo-001"
+ },
+ {
+  "airline": "Emirates",
+  "capacity": 320,
+  "docstatus": 0,
+  "doctype": "Airplane",
+  "model": "Boeing 787-9 Dreamliner",
+  "modified": "2024-12-16 17:42:58.922225",
+  "name": "Emirates-003"
+ }
+]
